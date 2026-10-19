@@ -110,9 +110,14 @@ export default function FamilyPointsPage() {
         {/* HERO SECTION */}
         <div className="bg-forest-800 text-white px-4 py-8 sm:px-6 sm:py-12">
           <div className="mx-auto max-w-4xl text-center space-y-3">
-            <div className="inline-flex items-center gap-1.5 rounded-full bg-amber-400/20 px-3.5 py-1 text-[13px] font-bold text-amber-300">
-              <Gift className="h-4 w-4" />
-              <span>1 Point = ₹1 Cash Discount</span>
+            <div className="flex flex-wrap items-center justify-center gap-2">
+              <div className="inline-flex items-center gap-1.5 rounded-full bg-amber-400/20 px-3.5 py-1 text-[13px] font-bold text-amber-300">
+                <Gift className="h-4 w-4" />
+                <span>1 Point = ₹1 Cash Discount</span>
+              </div>
+              <div className="inline-flex items-center gap-1.5 rounded-full bg-amber-400 px-3.5 py-1 text-[13px] font-extrabold text-charcoal-950 shadow-xs">
+                <span>🎉 8th Anniversary: 2X Points on Store Visits!</span>
+              </div>
             </div>
 
             <h1 className="font-serif text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight text-white">

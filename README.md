@@ -37,7 +37,7 @@ A mobile-first, production-ready digital bridge for **Cotton Junction**, a local
 - One-click batch reservation to enquiry basket and pre-formatted WhatsApp enquiry.
 
 ### 🕒 Reserve to Try in Store & WhatsApp Fulfillment (`/basket`)
-- 6-day date picker with 5 daily timing slots matching store hours (up to 11:30 pm closing).
+- 6-day date picker with 5 daily timing slots matching store hours (up to 10:00 pm closing).
 - Flexible fulfillment: *In-Store Trial & Pickup* (no advance payment) or *WhatsApp Home Delivery*.
 - 10-digit Indian phone validation (`^[6-9]\d{9}$`).
 - Visual 5-step trial pipeline on confirmation screen.
@@ -81,7 +81,8 @@ A mobile-first, production-ready digital bridge for **Cotton Junction**, a local
 
 - **Store Name**: Cotton Junction
 - **Physical Address**: 634, Sudama Nagar Main Rd, Usha Nagar, Sudama Nagar, Indore, Madhya Pradesh 452009
-- **Store Hours**: Closes 11:30 pm
+- **Store Hours**: Closes 10:00 pm (Open Daily)
+- **Milestone**: Completed 8 Years in Indore Yesterday (Founded October 2018)
 - **Public Google Rating**: 4.6 (124 reviews)
 - **WhatsApp Support & Orders**: `+91 6264673265`
 - **Store Phone**: `+91 83055 54819`

@@ -6,9 +6,9 @@ A step-by-step presentation script demonstrating how Cotton Junction, a physical
 
 ## ⏱️ Quick Summary (3-Minute Elevator Pitch)
 
-> *"Cotton Junction started in October 2018 as a garage-converted apparel store in Sudama Nagar, Indore, selling pure cotton family wear and branded surplus stock. While loved by local families, revenue growth flattened over the last two years because customers were tempted by Instagram labels and cheap synthetic fast fashion.*
+> *"Cotton Junction started in October 2018 as a garage-converted apparel store in Sudama Nagar, Indore, selling pure cotton family wear and branded surplus stock. Just yesterday, Cotton Junction completed 8 glorious years of trusted family service in Indore.
 >
-> *Cotton Junction Digital Hub brings those families back. It doesn't force a generic checkout on an offline store. Instead, it pairs pure cotton fabric education with an innovative **Family Outfit Builder**, allows zero-risk **In-Store Trial Reservations** up to our 11:30 pm closing time, retains counter walk-ins through a **Family Points Club**, and equips the owner with a real-time **Operations Pipeline** to manage inventory and conversions."*
+> Cotton Junction Digital Hub brings those families back. It doesn't force a generic checkout on an offline store. Instead, it pairs pure cotton fabric education with an innovative **Family Outfit Builder**, allows zero-risk **In-Store Trial Reservations** up to our 10:00 pm closing time, retains counter walk-ins through a **Family Points Club**, and equips the owner with a real-time **Operations Pipeline** to manage inventory and conversions."*
 
 ---
 
@@ -17,7 +17,7 @@ A step-by-step presentation script demonstrating how Cotton Junction, a physical
 ### Scene 1: The Local Brand Experience (Homepage & Trust)
 - **URL**: `http://localhost:3000/`
 - **What to Show**:
-  1. Point out the authentic header: *"634, Sudama Nagar Main Rd, Indore"* and the verified store timing: *"Closes 11:30 pm"*.
+  1. Point out the authentic header: *"634, Sudama Nagar Main Rd, Indore"* and the verified store timing: *"Closes 10:00 pm"*, plus the celebratory *"Completed 8 Years Yesterday"* badge.
   2. Toggle the language switch between **EN** and **हिन्दी** to show bilingual accessibility for local Indore parents and elders.
   3. Highlight the Google Rating badge: **4.6 (124 reviews)** and the physical store photo.
   4. Explain the content honesty: no unverified "100% handloom" claims; instead, transparent badges for *"pure cotton"* and *"branded surplus stock"*.
@@ -57,7 +57,7 @@ A step-by-step presentation script demonstrating how Cotton Junction, a physical
 - **What to Show**:
   1. View the items in the basket with sizes and quantities.
   2. Choose **"Reserve to Try in Store (Pay at Shop)"**.
-  3. Select a trial date and time window (e.g., *Tomorrow • 07:30 pm - 09:30 pm*, right before the 11:30 pm close).
+  3. Select a trial date and time window (e.g., *Tomorrow • 07:00 pm - 08:30 pm*, right before the 10:00 pm close).
   4. Enter customer details: Name (*"Rahul Jain"*), Mobile (*"9826012345"*), Locality (*"Annapurna Road"*).
   5. Click **"Confirm Trial Reservation"**:
      - Generates reference ID `CJ-ORD-XXXX`.
@@ -104,7 +104,7 @@ A step-by-step presentation script demonstrating how Cotton Junction, a physical
 
 ## 🏆 Key Takeaways for Evaluators
 
-1. **Rooted in Reality**: Tailored specifically for Cotton Junction at 634 Sudama Nagar, Indore, with accurate 11:30 pm closing times, verified WhatsApp numbers, and local pricing.
+1. **Rooted in Reality**: Tailored specifically for Cotton Junction at 634 Sudama Nagar, Indore, with accurate 10:00 pm closing times, verified WhatsApp numbers, completed 8-year local legacy, and local pricing.
 2. **Honest Content**: Zero fabricated superlatives or imaginary 5-star customer quotes; uses authentic surplus terminology and clear sample data indicators.
 3. **Solves the Stagnation Problem**: Drives online discovery, facilitates group family coordination, guarantees footfall via trial reservations, and retains shoppers through a compliant loyalty engine.
 4. **Clean Code & Robust Architecture**: Built on Next.js 14 App Router, TypeScript with 0 errors, responsive from 360px mobile to 4K desktop, with reliable hybrid data synchronization.

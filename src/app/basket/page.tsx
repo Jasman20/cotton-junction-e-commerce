@@ -73,8 +73,8 @@ export default function BasketPage() {
     { id: "11:30 AM - 1:30 PM", label: "11:30 AM - 1:30 PM", tag: "Morning" },
     { id: "2:00 PM - 4:00 PM", label: "2:00 PM - 4:00 PM", tag: "Afternoon" },
     { id: "5:00 PM - 7:00 PM", label: "5:00 PM - 7:00 PM", tag: "Popular" },
-    { id: "7:30 PM - 9:30 PM", label: "7:30 PM - 9:30 PM", tag: "Evening" },
-    { id: "9:30 PM - 11:30 PM", label: "9:30 PM - 11:30 PM", tag: "Closes 11:30 pm" },
+    { id: "7:00 PM - 8:30 PM", label: "7:00 PM - 8:30 PM", tag: "Evening" },
+    { id: "8:30 PM - 10:00 PM", label: "8:30 PM - 10:00 PM", tag: "Closes 10:00 pm" },
   ];
 
   const validatePhone = (phone: string) => {
@@ -237,7 +237,7 @@ export default function BasketPage() {
                       Store Address:
                     </span>
                     <span className="text-[15px] text-charcoal-700 leading-snug">
-                      634, Sudama Nagar Main Rd, Usha Nagar, Indore (Open daily, Closes 11:30 pm)
+                      634, Sudama Nagar Main Rd, Usha Nagar, Indore (Open daily, Closes 10:00 pm)
                     </span>
                   </div>
                 </div>

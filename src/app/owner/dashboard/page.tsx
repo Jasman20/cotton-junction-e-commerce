@@ -149,7 +149,7 @@ export default function OwnerDashboardPage() {
     const cleanPhone = "91" + order.customerPhone.replace(/\D/g, "").slice(-10);
     const msg = `Namaste ${order.customerName} ji! 🙏\n\nGreetings from *Cotton Junction*, Sudama Nagar, Indore.\n\nYour reserved garments (*${order.items.length} items*, total ${formatINR(
       order.totalAmount
-    )}) are ready for your trial slot on *${order.visitDate || "Today"}* (${order.visitSlot || "Store Hours"}).\n\n📍 Store Address: 634, Sudama Nagar Main Rd, Indore (Closes 11:30 pm).\n\nLooking forward to welcoming your family!`;
+    )}) are ready for your trial slot on *${order.visitDate || "Today"}* (${order.visitSlot || "Store Hours"}).\n\n📍 Store Address: 634, Sudama Nagar Main Rd, Indore (Closes 10:00 pm).\n\nLooking forward to welcoming your family!`;
 
     return `https://wa.me/${cleanPhone}?text=${encodeURIComponent(msg)}`;
   };
@@ -534,7 +534,7 @@ export default function OwnerDashboardPage() {
       </main>
 
       <footer className="border-t border-linen-200 bg-white py-4 text-center text-[12px] text-charcoal-500">
-        Cotton Junction Store Manager Portal • Sudama Nagar, Indore • Closes 11:30 pm
+        Cotton Junction Store Manager Portal • Sudama Nagar, Indore • Completed 8 Years • Closes 10:00 pm
       </footer>
     </div>
   );

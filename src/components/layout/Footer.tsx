@@ -112,7 +112,7 @@ export const Footer: React.FC = () => {
               <li className="flex items-center gap-2.5">
                 <Clock className="h-5 w-5 text-amber-400 shrink-0" />
                 <span className="font-medium text-amber-300">
-                  Open daily • Closes 11:30 pm
+                  Open daily • Closes 10:00 pm
                 </span>
               </li>
               <li className="flex items-center gap-2.5">
@@ -147,7 +147,7 @@ export const Footer: React.FC = () => {
               © {new Date().getFullYear()} Cotton Junction. Family clothing store. All rights reserved.
             </p>
             <div className="flex flex-wrap items-center justify-center sm:justify-end gap-3 text-[13px] text-linen-400">
-              <span>Started Oct 2018 in Indore • Pure cotton and premium fabrics</span>
+              <span>Completed 8 Years in Indore Yesterday (Started Oct 2018) • Pure cotton and premium fabrics</span>
               <span className="hidden sm:inline">•</span>
               <Link
                 href="/owner/login"

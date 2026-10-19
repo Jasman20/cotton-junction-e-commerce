@@ -34,16 +34,21 @@ export const Header: React.FC<HeaderProps> = ({
       {/* Upper Info Strip: Wraps cleanly on mobile, never cut off */}
       <div className="w-full bg-forest-800 text-white px-3 py-1.5 sm:px-6">
         <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-x-4 gap-y-1 text-[13px] sm:text-[14px]">
-          <div className="flex items-center gap-1.5 text-linen-100 flex-1 min-w-[240px]">
-            <MapPin className="h-4 w-4 shrink-0 text-amber-400" />
-            <span className="leading-snug">
-              634, Sudama Nagar Main Rd, Usha Nagar, Indore
+          <div className="flex flex-wrap items-center gap-2 text-linen-100 flex-1 min-w-[240px]">
+            <div className="flex items-center gap-1.5">
+              <MapPin className="h-4 w-4 shrink-0 text-amber-400" />
+              <span className="leading-snug">
+                634, Sudama Nagar Main Rd, Usha Nagar, Indore
+              </span>
+            </div>
+            <span className="inline-flex items-center gap-1 rounded-full bg-amber-400 px-2.5 py-0.5 text-[11px] font-extrabold text-charcoal-950 shadow-xs">
+              🎉 Completed 8 Years Yesterday! (Oct 2018)
             </span>
           </div>
           <div className="flex items-center gap-3 font-semibold text-amber-300 shrink-0">
             <div className="flex items-center gap-1.5">
               <Clock className="h-4 w-4 shrink-0 text-amber-400" />
-              <span>Closes 11:30 pm</span>
+              <span>Closes 10:00 pm</span>
             </div>
             <Link
               href="/owner/login"

@@ -168,7 +168,7 @@ export default function ProductDetailPage() {
                 <div>
                   <span className="font-semibold block text-[15px]">Available for physical trial:</span>
                   <span>
-                    Visit Cotton Junction, 634, Sudama Nagar, Indore. Closes 11:30 pm daily.
+                    Visit Cotton Junction, 634, Sudama Nagar, Indore. Closes 10:00 pm daily.
                   </span>
                 </div>
               </div>
