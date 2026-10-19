@@ -82,7 +82,7 @@ A mobile-first, production-ready digital bridge for **Cotton Junction**, a local
 - **Store Name**: Cotton Junction
 - **Physical Address**: 634, Sudama Nagar Main Rd, Usha Nagar, Sudama Nagar, Indore, Madhya Pradesh 452009
 - **Store Hours**: Closes 10:00 pm (Open Daily)
-- **Milestone**: Completed 8 Years in Indore Yesterday (Founded October 2018)
+- **Milestone**: Completed 8 Years
 - **Public Google Rating**: 4.6 (124 reviews)
 - **WhatsApp Support & Orders**: `+91 6264673265`
 - **Store Phone**: `+91 83055 54819`

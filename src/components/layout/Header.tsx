@@ -42,7 +42,7 @@ export const Header: React.FC<HeaderProps> = ({
               </span>
             </div>
             <span className="inline-flex items-center gap-1 rounded-full bg-amber-400 px-2.5 py-0.5 text-[11px] font-extrabold text-charcoal-950 shadow-xs">
-              🎉 Completed 8 Years Yesterday! (Oct 2018)
+              🎉 Completed 8 Years
             </span>
           </div>
           <div className="flex items-center gap-3 font-semibold text-amber-300 shrink-0">

@@ -58,8 +58,8 @@ export default function HomePage() {
                   <span className="flex h-2.5 w-2.5 rounded-full bg-amber-500 animate-ping" />
                   <span className="text-[13px] sm:text-[14px] font-extrabold text-forest-900 tracking-wide">
                     {language === "hi"
-                      ? "🎉 कल इंदौर में कॉटन जंक्शन ने 8 वर्ष पूरे किए! (2018 – 2026)"
-                      : "🎉 Yesterday Cotton Junction Completed 8 Years in Indore! (Oct 2018 – Present)"}
+                      ? "🎉 कॉटन जंक्शन ने 8 वर्ष पूरे किए!"
+                      : "🎉 Cotton Junction Completed 8 Years"}
                   </span>
                   <span className="hidden sm:inline text-amber-600 font-bold">•</span>
                   <span className="hidden sm:inline text-[13px] font-semibold text-charcoal-700">
@@ -198,16 +198,16 @@ export default function HomePage() {
                   <h2 className="font-serif text-xl sm:text-2xl font-bold text-amber-300">
                     {language === "hi"
                       ? "8 वर्ष पूरे होने पर इंदौर का हार्दिक धन्यवाद"
-                      : "Yesterday Cotton Junction Completed 8 Years in Indore"}
+                      : "Cotton Junction Completed 8 Years"}
                   </h2>
                   <span className="rounded-full bg-amber-400/20 border border-amber-400/40 px-2.5 py-0.5 text-[11px] font-extrabold text-amber-300 uppercase tracking-wider">
-                    Oct 2018 – Oct 2026 Milestone
+                    Completed 8 Years
                   </span>
                 </div>
                 <p className="text-[14px] sm:text-[15px] text-linen-200 leading-relaxed max-w-3xl">
                   {language === "hi"
-                    ? "अक्टूबर 2018 में सुदामा नगर के एक गराज से शुरू होकर, कॉटन जंक्शन ने कल 8 गौरवशाली वर्ष पूरे किए हैं। 10,000 से अधिक इंदौर परिवारों के शुद्ध सूती और प्रामाणिक फैब्रिक्स के अटूट विश्वास का हार्दिक आभार।"
-                    : "Started in October 2018 in a garage in Sudama Nagar, Cotton Junction completed 8 glorious years yesterday. Thank you to 10,000+ Indore families for choosing authentic pure cotton, surplus apparel, and honest prices."}
+                    ? "कॉटन जंक्शन ने 8 गौरवशाली वर्ष पूरे किए हैं। 10,000 से अधिक इंदौर परिवारों के शुद्ध सूती और प्रामाणिक फैब्रिक्स के अटूट विश्वास का हार्दिक आभार।"
+                    : "Cotton Junction completed 8 glorious years. Thank you to 10,000+ Indore families for choosing authentic pure cotton, surplus apparel, and honest prices."}
                 </p>
               </div>
             </div>

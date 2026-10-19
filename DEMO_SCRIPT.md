@@ -17,7 +17,7 @@ A step-by-step presentation script demonstrating how Cotton Junction, a physical
 ### Scene 1: The Local Brand Experience (Homepage & Trust)
 - **URL**: `http://localhost:3000/`
 - **What to Show**:
-  1. Point out the authentic header: *"634, Sudama Nagar Main Rd, Indore"* and the verified store timing: *"Closes 10:00 pm"*, plus the celebratory *"Completed 8 Years Yesterday"* badge.
+  1. Point out the authentic header: *"634, Sudama Nagar Main Rd, Indore"* and the verified store timing: *"Closes 10:00 pm"*, plus the celebratory *"Completed 8 Years"* badge.
   2. Toggle the language switch between **EN** and **हिन्दी** to show bilingual accessibility for local Indore parents and elders.
   3. Highlight the Google Rating badge: **4.6 (124 reviews)** and the physical store photo.
   4. Explain the content honesty: no unverified "100% handloom" claims; instead, transparent badges for *"pure cotton"* and *"branded surplus stock"*.

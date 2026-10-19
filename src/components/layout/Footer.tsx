@@ -147,7 +147,7 @@ export const Footer: React.FC = () => {
               © {new Date().getFullYear()} Cotton Junction. Family clothing store. All rights reserved.
             </p>
             <div className="flex flex-wrap items-center justify-center sm:justify-end gap-3 text-[13px] text-linen-400">
-              <span>Completed 8 Years in Indore Yesterday (Started Oct 2018) • Pure cotton and premium fabrics</span>
+              <span>Completed 8 Years • Pure cotton and premium fabrics</span>
               <span className="hidden sm:inline">•</span>
               <Link
                 href="/owner/login"
