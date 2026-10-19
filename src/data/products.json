@@ -1,0 +1,1194 @@
+[
+  {
+    "id": "cj-m-01",
+    "name": "Men's Slub Cotton Mandarin Kurta - Beige",
+    "category": "Men",
+    "subcategory": "Kurtas",
+    "garmentType": "kurta",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Everyday",
+      "Casual"
+    ],
+    "colours": [
+      "Beige",
+      "Ivory"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": 1299,
+    "originalPrice": 1699,
+    "stock": 14,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-kurta-beige.jpg",
+    "careNotes": "Gentle hand wash or mild machine cycle in cold water. Dry inside out in shade.",
+    "description": "Breathable slub cotton kurta featuring a classic mandarin collar, tonal placket buttons, and relaxed side slits for daily ease.",
+    "isSample": true
+  },
+  {
+    "id": "cj-m-02",
+    "name": "Men's Branded Surplus Oxford Cotton Shirt - Light Blue",
+    "category": "Men",
+    "subcategory": "Surplus Shirts",
+    "garmentType": "shirt",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Everyday",
+      "Casual"
+    ],
+    "colours": [
+      "Light Blue",
+      "White"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": 899,
+    "originalPrice": 2199,
+    "stock": 8,
+    "isSurplusBranded": true,
+    "image": "/stock/prod-shirt-blue.jpg",
+    "careNotes": "Machine wash cold with similar shades. Warm iron while slightly damp.",
+    "description": "Export surplus heavy Oxford cotton shirt with button-down collar and single chest pocket. Authentic surplus stock.",
+    "isSample": true
+  },
+  {
+    "id": "cj-m-03",
+    "name": "Men's Festive Deep Forest Green Kurta",
+    "category": "Men",
+    "subcategory": "Kurtas",
+    "garmentType": "kurta",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Festive/Diwali",
+      "Wedding"
+    ],
+    "colours": [
+      "Forest Green",
+      "Gold"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": 1599,
+    "originalPrice": 1999,
+    "stock": 11,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-family-green.jpg",
+    "careNotes": "Dry clean recommended for first wash. Later cold hand wash.",
+    "description": "Rich forest green pure cotton kurta with subtle antique gold thread embroidery along the neckline and cuffs.",
+    "isSample": true
+  },
+  {
+    "id": "cj-m-04",
+    "name": "Men's Mustard Yellow Festive Kurta",
+    "category": "Men",
+    "subcategory": "Kurtas",
+    "garmentType": "kurta",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Festive/Diwali",
+      "Wedding"
+    ],
+    "colours": [
+      "Mustard",
+      "Amber"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": 1499,
+    "originalPrice": 1899,
+    "stock": 9,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-kurti-mustard.jpg",
+    "careNotes": "Hand wash separately in cold water with mild detergent.",
+    "description": "Vibrant festive mustard yellow kurta made from woven textured cotton. Perfect for coordinated family festival attire.",
+    "isSample": true
+  },
+  {
+    "id": "cj-m-05",
+    "name": "Men's Casual Pure Cotton Linen-Weave Shirt - Olive",
+    "category": "Men",
+    "subcategory": "Surplus Shirts",
+    "garmentType": "shirt",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Casual",
+      "Everyday"
+    ],
+    "colours": [
+      "Olive Green"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": 949,
+    "originalPrice": 1799,
+    "stock": 6,
+    "isSurplusBranded": true,
+    "image": "/stock/prod-men-beige-flat.jpg",
+    "careNotes": "Machine wash at 30°C. Do not tumble dry.",
+    "description": "Lightweight breathable cotton shirt with a textured slub finish. Sourced as branded surplus stock.",
+    "isSample": true
+  },
+  {
+    "id": "cj-m-06",
+    "name": "Men's Raw Silk & Cotton Blend Nehru Jacket - Terracotta",
+    "category": "Men",
+    "subcategory": "Ethnic Wear",
+    "garmentType": "kurta",
+    "fabric": "premium fabrics",
+    "occasion": [
+      "Festive/Diwali",
+      "Wedding"
+    ],
+    "colours": [
+      "Terracotta",
+      "Rust"
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44"
+    ],
+    "price": 1899,
+    "originalPrice": 2499,
+    "stock": 4,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-kurta-rust.jpg",
+    "careNotes": "Dry clean only to maintain structured shape.",
+    "description": "Sleeveless Nehru jacket tailored in premium textured fabric with metallic buttons. Pairs over beige or ivory kurtas.",
+    "isSample": true
+  },
+  {
+    "id": "cj-m-07",
+    "name": "Men's Everyday White Pure Cotton Short Kurta",
+    "category": "Men",
+    "subcategory": "Kurtas",
+    "garmentType": "kurta",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Everyday",
+      "Casual"
+    ],
+    "colours": [
+      "White",
+      "Ivory"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": 799,
+    "originalPrice": 1099,
+    "stock": 19,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-men-kurta-portrait.jpg",
+    "careNotes": "Regular machine wash. Light starching optional.",
+    "description": "Comfortable hip-length pure cotton short kurta with roll-up sleeve tabs. Ideal for Indore summers and denim pairing.",
+    "isSample": true
+  },
+  {
+    "id": "cj-m-08",
+    "name": "Men's Branded Surplus Pique Cotton Polo - Navy",
+    "category": "Men",
+    "subcategory": "T-Shirts",
+    "garmentType": "shirt",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Casual",
+      "Everyday"
+    ],
+    "colours": [
+      "Navy Blue"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": 649,
+    "originalPrice": 1499,
+    "stock": 12,
+    "isSurplusBranded": true,
+    "image": "/stock/prod-shirt-blue.jpg",
+    "careNotes": "Cold machine wash inside out. Do not iron directly on collar ribbing.",
+    "description": "100% combed cotton pique knit polo shirt. Branded surplus lot with durable ribbed collar and reinforced hems.",
+    "isSample": true
+  },
+  {
+    "id": "cj-m-09",
+    "name": "Men's Embroidered Chikankari-Style Kurta - Pastel Peach",
+    "category": "Men",
+    "subcategory": "Kurtas",
+    "garmentType": "kurta",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Festive/Diwali",
+      "Wedding"
+    ],
+    "colours": [
+      "Pastel Peach",
+      "Ivory"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": 1699,
+    "originalPrice": 2199,
+    "stock": 7,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-father-kurta.jpg",
+    "careNotes": "Gentle hand wash inside a mesh laundry bag.",
+    "description": "Pastel tone pure cotton kurta adorned with traditional tone-on-tone embroidery across the yoke and borders.",
+    "isSample": true
+  },
+  {
+    "id": "cj-m-10",
+    "name": "Men's Striped Hand-Woven Texture Cotton Shirt",
+    "category": "Men",
+    "subcategory": "Surplus Shirts",
+    "garmentType": "shirt",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Casual",
+      "Everyday"
+    ],
+    "colours": [
+      "Charcoal Grey",
+      "Ivory"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": 899,
+    "originalPrice": 1699,
+    "stock": 8,
+    "isSurplusBranded": true,
+    "image": "/stock/prod-men-beige-flat.jpg",
+    "careNotes": "Machine wash cold with like colours.",
+    "description": "Textured striped pure cotton shirt with a soft enzyme wash finish for day-long softness.",
+    "isSample": true
+  },
+  {
+    "id": "cj-m-11",
+    "name": "Men's Maroon Festive Pure Cotton Kurta",
+    "category": "Men",
+    "subcategory": "Kurtas",
+    "garmentType": "kurta",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Festive/Diwali",
+      "Wedding"
+    ],
+    "colours": [
+      "Maroon",
+      "Gold"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": 1499,
+    "originalPrice": 1899,
+    "stock": 6,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-kurta-rust.jpg",
+    "careNotes": "Hand wash with cold water. Dry in shade.",
+    "description": "Deep festive maroon tone pure cotton kurta with fine zari piping along the mandarin neck.",
+    "isSample": true
+  },
+  {
+    "id": "cj-m-12",
+    "name": "Men's Pure Cotton Pyjama Pants - Off-White",
+    "category": "Men",
+    "subcategory": "Ethnic Wear",
+    "garmentType": "kurta",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Everyday",
+      "Festive/Diwali"
+    ],
+    "colours": [
+      "Off-White",
+      "Ivory"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": 599,
+    "originalPrice": 799,
+    "stock": 25,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-kurta-beige.jpg",
+    "careNotes": "Machine wash warm.",
+    "description": "Drawstring and elasticated pure cotton pyjama bottom with deep side pocket. Coordinates with all kurtas.",
+    "isSample": true
+  },
+  {
+    "id": "cj-m-13",
+    "name": "Men's Branded Surplus Formal Checked Shirt - Maroon",
+    "category": "Men",
+    "subcategory": "Surplus Shirts",
+    "garmentType": "shirt",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Everyday",
+      "Casual"
+    ],
+    "colours": [
+      "Maroon",
+      "White"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": 999,
+    "originalPrice": 2299,
+    "stock": 5,
+    "isSurplusBranded": true,
+    "image": "/stock/prod-shirt-blue.jpg",
+    "careNotes": "Machine wash warm, iron medium heat.",
+    "description": "Premium surplus stock micro-check formal shirt tailored in fine count cotton yarn.",
+    "isSample": true
+  },
+  {
+    "id": "cj-m-14",
+    "name": "Men's Indigo Block Print Cotton Kurta",
+    "category": "Men",
+    "subcategory": "Kurtas",
+    "garmentType": "kurta",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Casual",
+      "Everyday"
+    ],
+    "colours": [
+      "Indigo Blue"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": 1199,
+    "originalPrice": 1599,
+    "stock": 10,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-father-kurta.jpg",
+    "careNotes": "Wash separately initially due to natural indigo dyeing.",
+    "description": "Traditional geometric indigo motif on soft cotton base with coconut shell buttons.",
+    "isSample": true
+  },
+  {
+    "id": "cj-m-15",
+    "name": "Men's Solid Black Cotton Casual Shirt",
+    "category": "Men",
+    "subcategory": "Surplus Shirts",
+    "garmentType": "shirt",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Casual",
+      "Everyday"
+    ],
+    "colours": [
+      "Black"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": 899,
+    "originalPrice": 1899,
+    "stock": 3,
+    "isSurplusBranded": true,
+    "image": "/stock/prod-shirt-blue.jpg",
+    "careNotes": "Wash with dark colors. Do not bleach.",
+    "description": "Crisp matte black pure cotton casual shirt with curved hemline and soft spread collar.",
+    "isSample": true
+  },
+  {
+    "id": "cj-w-01",
+    "name": "Women's Emerald Forest Green Kurta Set with Dupatta",
+    "category": "Women",
+    "subcategory": "Kurta Sets",
+    "garmentType": "kurta",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Festive/Diwali",
+      "Wedding"
+    ],
+    "colours": [
+      "Forest Green",
+      "Gold"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": 1899,
+    "originalPrice": 2499,
+    "stock": 12,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-women-green-kurta.jpg",
+    "careNotes": "Dry clean or gentle cold hand wash.",
+    "description": "3-piece pure cotton set comprising straight-cut embroidered kurti, matching cigarette pants, and lightweight cotton dupatta.",
+    "isSample": true
+  },
+  {
+    "id": "cj-w-02",
+    "name": "Women's Mustard Floral Print A-Line Kurti",
+    "category": "Women",
+    "subcategory": "Kurtas",
+    "garmentType": "kurta",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Everyday",
+      "Casual"
+    ],
+    "colours": [
+      "Mustard",
+      "Amber"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": 899,
+    "originalPrice": 1299,
+    "stock": 16,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-kurti-mustard.jpg",
+    "careNotes": "Machine wash cold with mild detergent.",
+    "description": "Flattering A-line pure cotton kurti featuring botanical block-style motifs and notched round neckline.",
+    "isSample": true
+  },
+  {
+    "id": "cj-w-03",
+    "name": "Women's Pure Cotton Chanderi Border Saree - Ivory & Gold",
+    "category": "Women",
+    "subcategory": "Sarees",
+    "garmentType": "saree",
+    "fabric": "premium fabrics",
+    "occasion": [
+      "Festive/Diwali",
+      "Wedding"
+    ],
+    "colours": [
+      "Ivory",
+      "Gold"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "price": 2499,
+    "originalPrice": 3299,
+    "stock": 5,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-saree-ivory.jpg",
+    "careNotes": "Dry clean recommended to preserve gold zari border sheen.",
+    "description": "Traditional Madhya Pradesh Chanderi-inspired cotton saree with delicate zari pallu and matching unstitched blouse piece.",
+    "isSample": true
+  },
+  {
+    "id": "cj-w-04",
+    "name": "Women's Terracotta Anarkali Suit with Zari Yoke",
+    "category": "Women",
+    "subcategory": "Anarkalis",
+    "garmentType": "anarkali",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Festive/Diwali",
+      "Wedding"
+    ],
+    "colours": [
+      "Terracotta",
+      "Gold"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": 2199,
+    "originalPrice": 2899,
+    "stock": 7,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-anarkali-rust.jpg",
+    "careNotes": "Dry clean preferred for first wash.",
+    "description": "Kalidar flared anarkali gown in earthy terracotta pure cotton with gold gota border detailing.",
+    "isSample": true
+  },
+  {
+    "id": "cj-w-05",
+    "name": "Women's Pastel Mint Everyday Pure Cotton Kurti",
+    "category": "Women",
+    "subcategory": "Kurtas",
+    "garmentType": "kurta",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Everyday",
+      "Casual"
+    ],
+    "colours": [
+      "Mint Green",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": 749,
+    "originalPrice": 999,
+    "stock": 20,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-women-floral.jpg",
+    "careNotes": "Easy machine wash cold.",
+    "description": "Soft everyday pure cotton kurti with three-quarter sleeves and contrast wooden buttons.",
+    "isSample": true
+  },
+  {
+    "id": "cj-w-06",
+    "name": "Women's Festive Coordinated Cotton Lehenga Set - Amber",
+    "category": "Women",
+    "subcategory": "Festive Sets",
+    "garmentType": "lehenga",
+    "fabric": "premium fabrics",
+    "occasion": [
+      "Festive/Diwali",
+      "Wedding"
+    ],
+    "colours": [
+      "Amber",
+      "Maroon"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "price": 2899,
+    "originalPrice": 3999,
+    "stock": 3,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-women-yellow-saree.jpg",
+    "careNotes": "Dry clean only.",
+    "description": "Flared pure cotton festive lehenga skirt with gold foil print, contrast choli, and printed cotton dupatta.",
+    "isSample": true
+  },
+  {
+    "id": "cj-w-07",
+    "name": "Women's Branded Surplus Cotton Casual Tunic - Navy",
+    "category": "Women",
+    "subcategory": "Surplus Shirts",
+    "garmentType": "shirt",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Casual",
+      "Everyday"
+    ],
+    "colours": [
+      "Navy Blue"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": 699,
+    "originalPrice": 1599,
+    "stock": 9,
+    "isSurplusBranded": true,
+    "image": "/stock/prod-shirt-blue.jpg",
+    "careNotes": "Machine wash cold with similar shades.",
+    "description": "Western casual pure cotton buttoned tunic with waist belt loops. Export surplus stock.",
+    "isSample": true
+  },
+  {
+    "id": "cj-w-08",
+    "name": "Women's Daily Wear Khadi-Feel Cotton Saree - Indigo",
+    "category": "Women",
+    "subcategory": "Sarees",
+    "garmentType": "saree",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Everyday",
+      "Casual"
+    ],
+    "colours": [
+      "Indigo Blue",
+      "Ivory"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "price": 1199,
+    "originalPrice": 1699,
+    "stock": 11,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-saree-green.jpg",
+    "careNotes": "Hand wash with mild shampoo in cold water.",
+    "description": "Lightweight breathable pure cotton saree suited for office, daily chores, and temple visits.",
+    "isSample": true
+  },
+  {
+    "id": "cj-w-09",
+    "name": "Women's Festive Maroon Kurta & Palazzos Set",
+    "category": "Women",
+    "subcategory": "Kurta Sets",
+    "garmentType": "kurta",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Festive/Diwali",
+      "Wedding"
+    ],
+    "colours": [
+      "Maroon",
+      "Beige"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": 1799,
+    "originalPrice": 2399,
+    "stock": 8,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-kurta-rust.jpg",
+    "careNotes": "Cold hand wash separately.",
+    "description": "Rich deep maroon pure cotton kurta with front slit, paired with wide-leg printed cotton palazzos.",
+    "isSample": true
+  },
+  {
+    "id": "cj-w-10",
+    "name": "Women's Pure Cotton Angrakha Style Kurti - Rust",
+    "category": "Women",
+    "subcategory": "Kurtas",
+    "garmentType": "anarkali",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Festive/Diwali",
+      "Casual"
+    ],
+    "colours": [
+      "Terracotta",
+      "Rust"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": 1299,
+    "originalPrice": 1699,
+    "stock": 6,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-anarkali-rust.jpg",
+    "careNotes": "Wash gently in cold water.",
+    "description": "Traditional overlap Angrakha silhouette with handcrafted fabric tassel ties and gathered waist.",
+    "isSample": true
+  },
+  {
+    "id": "cj-w-11",
+    "name": "Women's Pure Cotton Straight Cut Pants - Beige",
+    "category": "Women",
+    "subcategory": "Ethnic Wear",
+    "garmentType": "kurta",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Everyday",
+      "Casual"
+    ],
+    "colours": [
+      "Beige",
+      "Ivory"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": 649,
+    "originalPrice": 899,
+    "stock": 18,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-mother-suit.jpg",
+    "careNotes": "Machine wash cold.",
+    "description": "Ankle-length tapered cotton trousers with elasticated back and side pockets. Versatile match.",
+    "isSample": true
+  },
+  {
+    "id": "cj-w-12",
+    "name": "Women's Hand-Block Style Floral Cotton Kurti - Blue",
+    "category": "Women",
+    "subcategory": "Kurtas",
+    "garmentType": "kurta",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Everyday",
+      "Casual"
+    ],
+    "colours": [
+      "Sky Blue",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": 799,
+    "originalPrice": 1199,
+    "stock": 14,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-women-floral.jpg",
+    "careNotes": "Gentle wash.",
+    "description": "Calm sky blue everyday kurti with subtle floral jaal print and Mandarin collar.",
+    "isSample": true
+  },
+  {
+    "id": "cj-w-13",
+    "name": "Women's Branded Surplus Linen-Cotton Blend Shirt - Olive",
+    "category": "Women",
+    "subcategory": "Surplus Shirts",
+    "garmentType": "shirt",
+    "fabric": "cotton blend",
+    "occasion": [
+      "Casual",
+      "Everyday"
+    ],
+    "colours": [
+      "Olive Green"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "price": 799,
+    "originalPrice": 1899,
+    "stock": 5,
+    "isSurplusBranded": true,
+    "image": "/stock/prod-shirt-blue.jpg",
+    "careNotes": "Machine wash at 30°C.",
+    "description": "Relaxed fit linen-cotton blend casual shirt with dropped shoulders and patch pockets.",
+    "isSample": true
+  },
+  {
+    "id": "cj-w-14",
+    "name": "Women's Festive Yellow Kurta Set with Gold Zari Border",
+    "category": "Women",
+    "subcategory": "Kurta Sets",
+    "garmentType": "kurta",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Festive/Diwali",
+      "Wedding"
+    ],
+    "colours": [
+      "Mustard",
+      "Amber"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price": 1949,
+    "originalPrice": 2599,
+    "stock": 6,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-kurti-mustard.jpg",
+    "careNotes": "Dry clean recommended.",
+    "description": "Festive bright yellow cotton kurti with zari accents, paired with matching pants and sheer cotton dupatta.",
+    "isSample": true
+  },
+  {
+    "id": "cj-w-15",
+    "name": "Women's Pure Cotton Nightwear Kurta Dress",
+    "category": "Women",
+    "subcategory": "Everyday",
+    "garmentType": "kurta",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Everyday"
+    ],
+    "colours": [
+      "Pastel Pink"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": 599,
+    "originalPrice": 899,
+    "stock": 15,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-women-floral.jpg",
+    "careNotes": "Regular machine wash.",
+    "description": "Loose-fitting breathable cotton calf-length home dress designed for relaxed comfort.",
+    "isSample": true
+  },
+  {
+    "id": "cj-k-01",
+    "name": "Boys' Festive Mustard Pure Cotton Kurta",
+    "category": "Kids",
+    "subcategory": "Festive Sets",
+    "garmentType": "kurta",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Festive/Diwali",
+      "Wedding"
+    ],
+    "colours": [
+      "Mustard",
+      "Amber"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-12Y"
+    ],
+    "ageGroup": "5-7Y",
+    "price": 799,
+    "originalPrice": 1099,
+    "stock": 14,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-kids-boy-mustard.jpg",
+    "careNotes": "Cold gentle machine wash. Mild detergent for sensitive skin.",
+    "description": "Festive mustard yellow pure cotton kurta for boys with roll-up sleeves and soft inner seams for itch-free play.",
+    "isSample": true
+  },
+  {
+    "id": "cj-k-02",
+    "name": "Girls' Floral Pure Cotton Tiered Frock - Peach",
+    "category": "Kids",
+    "subcategory": "Frocks",
+    "garmentType": "frock",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Festive/Diwali",
+      "Casual"
+    ],
+    "colours": [
+      "Peach",
+      "Ivory"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "ageGroup": "5-7Y",
+    "price": 849,
+    "originalPrice": 1199,
+    "stock": 10,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-frock-peach.jpg",
+    "careNotes": "Gentle hand or machine wash in cold water.",
+    "description": "Delicate floral print cotton frock with flutter lace trimming and empire waistline. Coordinates with mother's peach or green outfit.",
+    "isSample": true
+  },
+  {
+    "id": "cj-k-03",
+    "name": "Boys' Pure Cotton Kurta & Dhoti Pant Set - Forest Green",
+    "category": "Kids",
+    "subcategory": "Festive Sets",
+    "garmentType": "dhoti-kurta",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Festive/Diwali",
+      "Wedding"
+    ],
+    "colours": [
+      "Forest Green",
+      "Gold"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "ageGroup": "5-7Y",
+    "price": 1099,
+    "originalPrice": 1499,
+    "stock": 8,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-dhoti-kids.jpg",
+    "careNotes": "Cold wash, iron low.",
+    "description": "Readymade stitched dhoti pant with elastic waistband paired with gold-piped deep forest green cotton kurta.",
+    "isSample": true
+  },
+  {
+    "id": "cj-k-04",
+    "name": "Girls' Festive Pure Cotton Anarkali Set - Amber Yellow",
+    "category": "Kids",
+    "subcategory": "Festive Sets",
+    "garmentType": "anarkali",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Festive/Diwali",
+      "Wedding"
+    ],
+    "colours": [
+      "Amber",
+      "Gold"
+    ],
+    "sizes": [
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-12Y"
+    ],
+    "ageGroup": "8-11Y",
+    "price": 1299,
+    "originalPrice": 1799,
+    "stock": 6,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-daughter-lehenga.jpg",
+    "careNotes": "Gentle wash.",
+    "description": "Flared festive anarkali for young girls in pure cotton with matching soft leggings and net dupatta.",
+    "isSample": true
+  },
+  {
+    "id": "cj-k-05",
+    "name": "Boys' Branded Surplus Cotton Graphic Tee - Cobalt",
+    "category": "Kids",
+    "subcategory": "Everyday",
+    "garmentType": "shirt",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Everyday",
+      "Casual"
+    ],
+    "colours": [
+      "Cobalt Blue"
+    ],
+    "sizes": [
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-12Y",
+      "13-15Y"
+    ],
+    "ageGroup": "8-11Y",
+    "price": 399,
+    "originalPrice": 899,
+    "stock": 16,
+    "isSurplusBranded": true,
+    "image": "/stock/prod-boy-beige-kurta.jpg",
+    "careNotes": "Machine wash warm.",
+    "description": "Durable combed pure cotton everyday t-shirt from export surplus batch. Breathable and soft.",
+    "isSample": true
+  },
+  {
+    "id": "cj-k-06",
+    "name": "Girls' Cotton Block-Print Sundress - Mint",
+    "category": "Kids",
+    "subcategory": "Frocks",
+    "garmentType": "frock",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Everyday",
+      "Casual"
+    ],
+    "colours": [
+      "Mint Green",
+      "White"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "ageGroup": "2-4Y",
+    "price": 649,
+    "originalPrice": 899,
+    "stock": 12,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-kids-girl-floral.jpg",
+    "careNotes": "Machine wash cold.",
+    "description": "Breezy knee-length cotton sundress with bow shoulder straps for warm sunny days.",
+    "isSample": true
+  },
+  {
+    "id": "cj-k-07",
+    "name": "Boys' Pure Cotton Linen Shirt - Off-White",
+    "category": "Kids",
+    "subcategory": "Everyday",
+    "garmentType": "shirt",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Everyday",
+      "Casual"
+    ],
+    "colours": [
+      "Off-White"
+    ],
+    "sizes": [
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-12Y"
+    ],
+    "ageGroup": "8-11Y",
+    "price": 599,
+    "originalPrice": 999,
+    "stock": 9,
+    "isSurplusBranded": true,
+    "image": "/stock/prod-kids-boy-ivory.jpg",
+    "careNotes": "Machine wash cold.",
+    "description": "Smart casual collar shirt in textured cotton weave. Suitable for family dinners and casual outings.",
+    "isSample": true
+  },
+  {
+    "id": "cj-k-08",
+    "name": "Girls' Festive Pure Cotton Lehenga Choli - Maroon",
+    "category": "Kids",
+    "subcategory": "Festive Sets",
+    "garmentType": "lehenga",
+    "fabric": "premium fabrics",
+    "occasion": [
+      "Festive/Diwali",
+      "Wedding"
+    ],
+    "colours": [
+      "Maroon",
+      "Gold"
+    ],
+    "sizes": [
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "ageGroup": "5-7Y",
+    "price": 1499,
+    "originalPrice": 2099,
+    "stock": 4,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-kids-girl-mustard.jpg",
+    "careNotes": "Dry clean recommended.",
+    "description": "Comfortable pure cotton lehenga set with elastic skirt waist and soft cotton lining, avoiding stiff synthetics.",
+    "isSample": true
+  },
+  {
+    "id": "cj-k-09",
+    "name": "Boys' Everyday Cotton Shorts Set - Olive & Beige",
+    "category": "Kids",
+    "subcategory": "Everyday",
+    "garmentType": "shirt",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Everyday",
+      "Casual"
+    ],
+    "colours": [
+      "Olive Green",
+      "Beige"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y"
+    ],
+    "ageGroup": "2-4Y",
+    "price": 549,
+    "originalPrice": 899,
+    "stock": 15,
+    "isSurplusBranded": true,
+    "image": "/stock/prod-kids-boy-mustard.jpg",
+    "careNotes": "Machine wash warm.",
+    "description": "2-piece set of half-sleeve cotton tee and elasticated cotton bermuda shorts for playtime.",
+    "isSample": true
+  },
+  {
+    "id": "cj-k-10",
+    "name": "Girls' Cotton Kurti with Tulip Pants - Pastel Peach",
+    "category": "Kids",
+    "subcategory": "Festive Sets",
+    "garmentType": "kurta",
+    "fabric": "pure cotton",
+    "occasion": [
+      "Festive/Diwali",
+      "Casual"
+    ],
+    "colours": [
+      "Peach",
+      "White"
+    ],
+    "sizes": [
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-12Y"
+    ],
+    "ageGroup": "8-11Y",
+    "price": 999,
+    "originalPrice": 1399,
+    "stock": 7,
+    "isSurplusBranded": false,
+    "image": "/stock/prod-daughter-lehenga.jpg",
+    "careNotes": "Gentle cold hand wash.",
+    "description": "Modern fusion ethnic set featuring short flared cotton kurti and overlapping tulip pants.",
+    "isSample": true
+  }
+]

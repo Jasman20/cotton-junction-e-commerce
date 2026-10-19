@@ -1,0 +1,96 @@
+[
+  {
+    "id": "CJ-CUST-1001",
+    "phone": "9826012345",
+    "name": "Rajesh Sharma",
+    "email": "rajesh.sharma@example.com",
+    "locality": "Sudama Nagar, Indore",
+    "joinedDate": "2026-08-14",
+    "pointsBalance": 350,
+    "lifetimeSpent": 8490,
+    "tier": "Gold Family",
+    "consentGiven": true,
+    "consentTimestamp": "2026-08-14T11:42:00Z",
+    "transactions": [
+      {
+        "id": "TX-101",
+        "date": "2026-08-14",
+        "type": "EARN_SIGNUP",
+        "points": 50,
+        "description": "Counter QR Welcome Bonus"
+      },
+      {
+        "id": "TX-102",
+        "date": "2026-09-02",
+        "type": "EARN_PURCHASE",
+        "points": 180,
+        "description": "Purchased Men's Oxford Shirts & Kurta (Bill ₹3,600)"
+      },
+      {
+        "id": "TX-103",
+        "date": "2026-10-10",
+        "type": "EARN_PURCHASE",
+        "points": 120,
+        "description": "Purchased Kids Festive Dhoti Set (Bill ₹2,400)"
+      }
+    ]
+  },
+  {
+    "id": "CJ-CUST-1002",
+    "phone": "9826098765",
+    "name": "Pooja Verma",
+    "email": "pooja.verma@example.com",
+    "locality": "Annapurna Road, Indore",
+    "joinedDate": "2026-09-20",
+    "pointsBalance": 190,
+    "lifetimeSpent": 4800,
+    "tier": "Silver Family",
+    "consentGiven": true,
+    "consentTimestamp": "2026-09-20T17:15:00Z",
+    "transactions": [
+      {
+        "id": "TX-201",
+        "date": "2026-09-20",
+        "type": "EARN_SIGNUP",
+        "points": 50,
+        "description": "Counter QR Welcome Bonus"
+      },
+      {
+        "id": "TX-202",
+        "date": "2026-10-05",
+        "type": "EARN_PURCHASE",
+        "points": 140,
+        "description": "Purchased Chanderi Pure Cotton Saree (Bill ₹2,800)"
+      }
+    ]
+  },
+  {
+    "id": "CJ-CUST-1003",
+    "phone": "6264673265",
+    "name": "Cotton Junction VIP Demo",
+    "email": "owner@cottonjunction.in",
+    "locality": "Sudama Nagar Main Rd, Indore",
+    "joinedDate": "2026-10-01",
+    "pointsBalance": 500,
+    "lifetimeSpent": 15000,
+    "tier": "Diamond Family",
+    "consentGiven": true,
+    "consentTimestamp": "2026-10-01T10:00:00Z",
+    "transactions": [
+      {
+        "id": "TX-301",
+        "date": "2026-10-01",
+        "type": "EARN_SIGNUP",
+        "points": 50,
+        "description": "Counter QR Welcome Bonus"
+      },
+      {
+        "id": "TX-302",
+        "date": "2026-10-12",
+        "type": "EARN_PURCHASE",
+        "points": 450,
+        "description": "Family Set Festive Diwali Coordination (Bill ₹9,000)"
+      }
+    ]
+  }
+]

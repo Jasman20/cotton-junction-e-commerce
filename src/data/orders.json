@@ -1,0 +1,230 @@
+[
+  {
+    "id": "CJ-ORD-3662",
+    "customerName": "Sanjay Patwardhan",
+    "customerPhone": "9826077889",
+    "orderType": "pickup",
+    "visitDate": "2026-10-19",
+    "visitSlot": "5:00 PM - 7:00 PM",
+    "items": [
+      {
+        "product": {
+          "id": "cj-m-01",
+          "name": "Men Slub Cotton Kurta",
+          "price": 1299
+        },
+        "selectedSize": "L",
+        "selectedColour": "Beige",
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 1299,
+    "notes": "Need trial for festive event",
+    "status": "New",
+    "createdAt": "2026-10-18T18:29:58.601Z"
+  },
+  {
+    "id": "CJ-ORD-1082",
+    "customerName": "Rajesh Sharma",
+    "customerPhone": "9826012345",
+    "orderType": "pickup",
+    "visitDate": "2026-10-19",
+    "visitSlot": "5:00 PM - 7:00 PM",
+    "items": [
+      {
+        "product": {
+          "id": "cj-m-01",
+          "name": "Men's Slub Cotton Mandarin Kurta - Beige",
+          "category": "Men",
+          "subcategory": "Kurtas",
+          "garmentType": "kurta",
+          "fabric": "pure cotton",
+          "price": 1299,
+          "image": "/stock/prod-kurta-beige.jpg"
+        },
+        "selectedSize": "XL",
+        "selectedColour": "Beige",
+        "quantity": 1
+      },
+      {
+        "product": {
+          "id": "cj-m-12",
+          "name": "Men's Pure Cotton Pyjama Pants - Off-White",
+          "category": "Men",
+          "subcategory": "Ethnic Wear",
+          "garmentType": "kurta",
+          "fabric": "pure cotton",
+          "price": 599,
+          "image": "/stock/fabric-cotton.jpg"
+        },
+        "selectedSize": "XL",
+        "selectedColour": "Off-White",
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 1898,
+    "notes": "Keep XXL handy as well please.",
+    "status": "Ready for Trial",
+    "createdAt": "2026-10-18T14:30:00.000Z"
+  },
+  {
+    "id": "CJ-ORD-1081",
+    "customerName": "Pooja Verma",
+    "customerPhone": "9425098765",
+    "orderType": "pickup",
+    "visitDate": "2026-10-18",
+    "visitSlot": "7:30 PM - 9:30 PM",
+    "items": [
+      {
+        "product": {
+          "id": "cj-w-01",
+          "name": "Women's Emerald Forest Green Kurta Set with Dupatta",
+          "category": "Women",
+          "subcategory": "Kurta Sets",
+          "garmentType": "kurta",
+          "fabric": "pure cotton",
+          "price": 1899,
+          "image": "/stock/cat-women.jpg"
+        },
+        "selectedSize": "M",
+        "selectedColour": "Forest Green",
+        "quantity": 1
+      },
+      {
+        "product": {
+          "id": "cj-k-02",
+          "name": "Girls' Floral Pure Cotton Tiered Frock - Peach",
+          "category": "Kids",
+          "subcategory": "Frocks",
+          "garmentType": "frock",
+          "fabric": "pure cotton",
+          "price": 849,
+          "image": "/stock/prod-frock-peach.jpg"
+        },
+        "selectedSize": "4-5Y",
+        "selectedColour": "Peach",
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 2748,
+    "notes": "For Diwali family puja trial.",
+    "status": "Confirmed",
+    "createdAt": "2026-10-18T11:15:00.000Z"
+  },
+  {
+    "id": "CJ-ORD-1080",
+    "customerName": "Amitabh Jain",
+    "customerPhone": "9893044122",
+    "orderType": "pickup",
+    "visitDate": "2026-10-17",
+    "visitSlot": "2:00 PM - 4:00 PM",
+    "items": [
+      {
+        "product": {
+          "id": "cj-m-02",
+          "name": "Men's Branded Surplus Oxford Cotton Shirt - Light Blue",
+          "category": "Men",
+          "subcategory": "Surplus Shirts",
+          "garmentType": "shirt",
+          "fabric": "pure cotton",
+          "price": 899,
+          "image": "/stock/prod-shirt-blue.jpg"
+        },
+        "selectedSize": "L",
+        "selectedColour": "Light Blue",
+        "quantity": 2
+      }
+    ],
+    "totalAmount": 1798,
+    "notes": "",
+    "status": "Purchased",
+    "createdAt": "2026-10-17T09:40:00.000Z"
+  },
+  {
+    "id": "CJ-ORD-1079",
+    "customerName": "Sunita Patidar",
+    "customerPhone": "9179055312",
+    "orderType": "pickup",
+    "visitDate": "2026-10-16",
+    "visitSlot": "5:00 PM - 7:00 PM",
+    "items": [
+      {
+        "product": {
+          "id": "cj-w-03",
+          "name": "Women's Pure Cotton Chanderi Border Saree - Ivory & Gold",
+          "category": "Women",
+          "subcategory": "Sarees",
+          "garmentType": "saree",
+          "fabric": "premium fabrics",
+          "price": 2499,
+          "image": "/stock/prod-saree-ivory.jpg"
+        },
+        "selectedSize": "Free Size",
+        "selectedColour": "Ivory",
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 2499,
+    "notes": "Interested in matching blouse fabric.",
+    "status": "Purchased",
+    "createdAt": "2026-10-16T12:00:00.000Z"
+  },
+  {
+    "id": "CJ-ORD-1078",
+    "customerName": "Vikram Choudhary",
+    "customerPhone": "9685022199",
+    "orderType": "pickup",
+    "visitDate": "2026-10-15",
+    "visitSlot": "8:00 PM - 10:00 PM",
+    "items": [
+      {
+        "product": {
+          "id": "cj-m-03",
+          "name": "Men's Festive Deep Forest Green Kurta",
+          "category": "Men",
+          "subcategory": "Kurtas",
+          "garmentType": "kurta",
+          "fabric": "pure cotton",
+          "price": 1599,
+          "image": "/stock/cat-festive.jpg"
+        },
+        "selectedSize": "L",
+        "selectedColour": "Forest Green",
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 1599,
+    "notes": "",
+    "status": "Visited",
+    "createdAt": "2026-10-15T15:20:00.000Z"
+  },
+  {
+    "id": "CJ-ORD-1077",
+    "customerName": "Deepak Agrawal",
+    "customerPhone": "9827033488",
+    "orderType": "delivery",
+    "visitDate": "",
+    "visitSlot": "",
+    "items": [
+      {
+        "product": {
+          "id": "cj-m-08",
+          "name": "Men's Branded Surplus Pique Cotton Polo - Navy",
+          "category": "Men",
+          "subcategory": "T-Shirts",
+          "garmentType": "shirt",
+          "fabric": "pure cotton",
+          "price": 649,
+          "image": "/stock/fabric-cotton.jpg"
+        },
+        "selectedSize": "XL",
+        "selectedColour": "Navy Blue",
+        "quantity": 2
+      }
+    ],
+    "totalAmount": 1298,
+    "notes": "Deliver to Scheme 54, Vijay Nagar, Indore.",
+    "status": "Cancelled",
+    "createdAt": "2026-10-14T10:10:00.000Z"
+  }
+]
