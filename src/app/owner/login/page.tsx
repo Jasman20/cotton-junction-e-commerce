@@ -2,6 +2,7 @@
 
 import React, { useState } from "react";
 import Image from "next/image";
+import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { setOwnerAuthenticated } from "@/lib/ownerAuth";
 import { Lock, ArrowRight, ShieldCheck, Eye, EyeOff } from "lucide-react";
@@ -100,10 +101,42 @@ export default function OwnerLoginPage() {
             <ArrowRight className="h-4 w-4" />
           </button>
 
-          <div className="text-center pt-2">
-            <span className="text-[12px] text-charcoal-400">
-              Demo access PIN: <code className="bg-linen-200 px-1.5 py-0.5 rounded font-mono font-bold text-charcoal-700">CJ2018</code>
-            </span>
+          {/* Quick Demo Divider */}
+          <div className="relative flex py-2 items-center">
+            <div className="grow border-t border-linen-300"></div>
+            <span className="shrink mx-3 text-xs text-charcoal-400 uppercase font-semibold">or one-click access</span>
+            <div className="grow border-t border-linen-300"></div>
+          </div>
+
+          {/* One-Click Instant Demo Login */}
+          <button
+            type="button"
+            disabled={isLoading}
+            onClick={() => {
+              setIsLoading(true);
+              setOwnerAuthenticated(true);
+              router.push("/owner/dashboard");
+            }}
+            className="flex min-h-[48px] w-full items-center justify-center gap-2 rounded-xl border-2 border-forest-800 bg-forest-50 text-forest-800 text-[15px] font-bold hover:bg-forest-100 transition-colors"
+          >
+            <ShieldCheck className="h-5 w-5 text-forest-800" />
+            <span>Instant Demo Login as Store Owner</span>
+          </button>
+
+          <div className="text-center pt-2 space-y-2">
+            <div>
+              <span className="text-[12px] text-charcoal-500">
+                Store demo PIN: <code className="bg-linen-200 px-1.5 py-0.5 rounded font-mono font-bold text-forest-800">CJ2018</code>
+              </span>
+            </div>
+            <div>
+              <Link
+                href="/"
+                className="text-[13px] font-medium text-charcoal-600 hover:text-forest-800 underline underline-offset-4"
+              >
+                ← Return to Cotton Junction Store
+              </Link>
+            </div>
           </div>
         </form>
       </div>

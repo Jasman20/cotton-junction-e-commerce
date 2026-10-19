@@ -356,7 +356,10 @@ function ShopContent() {
             <div className="grid grid-cols-2 gap-3.5 sm:grid-cols-3 lg:grid-cols-4 sm:gap-6">
               {[...Array(8)].map((_, idx) => (
                 <div key={idx} className="space-y-3 rounded-2xl bg-white p-3 border border-linen-200">
-                  <Skeleton className="aspect-4/5 w-full rounded-xl" />
+                  <Skeleton
+                    className="w-full rounded-xl min-h-[220px] sm:min-h-[280px]"
+                    style={{ aspectRatio: "4 / 5" }}
+                  />
                   <Skeleton className="h-4 w-3/4" />
                   <Skeleton className="h-4 w-1/2" />
                   <Skeleton className="h-10 w-full rounded-full" />

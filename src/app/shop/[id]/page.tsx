@@ -127,7 +127,10 @@ export default function ProductDetailPage() {
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12">
             {/* LEFT: PRODUCT IMAGE & SAMPLE BADGE */}
             <div className="lg:col-span-6 space-y-4">
-              <div className="relative aspect-4/5 w-full overflow-hidden rounded-3xl bg-linen-100 border border-linen-200 shadow-card">
+              <div
+                className="relative w-full overflow-hidden rounded-3xl bg-linen-100 border border-linen-200 shadow-card min-h-[350px] sm:min-h-[480px]"
+                style={{ aspectRatio: "4 / 5" }}
+              >
                 {!imageError && product.image && !product.image.includes("illustration") ? (
                   <Image
                     src={product.image}
@@ -330,7 +333,11 @@ export default function ProductDetailPage() {
               <div className="grid grid-cols-2 md:grid-cols-4 gap-3.5 sm:gap-6">
                 {relatedProducts.map((p) => (
                   <Card key={p.id} variant="interactive" className="p-3">
-                    <Link href={`/shop/${p.id}`} className="block aspect-4/5 relative rounded-xl overflow-hidden bg-linen-100 mb-2">
+                    <Link
+                      href={`/shop/${p.id}`}
+                      className="block relative rounded-xl overflow-hidden bg-linen-100 mb-2 min-h-[160px] sm:min-h-[200px]"
+                      style={{ aspectRatio: "4 / 5" }}
+                    >
                       <Image
                         src={p.image}
                         alt={p.name}

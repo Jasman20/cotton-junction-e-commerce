@@ -496,7 +496,8 @@ export default function FamilyOutfitBuilderPage() {
                   {/* Product Image */}
                   <Link
                     href={`/shop/${product.id}`}
-                    className="relative aspect-4/5 w-full overflow-hidden bg-linen-100 block"
+                    className="relative w-full overflow-hidden bg-linen-100 block min-h-[220px] sm:min-h-[260px]"
+                    style={{ aspectRatio: "4 / 5" }}
                   >
                     <Image
                       src={product.image}

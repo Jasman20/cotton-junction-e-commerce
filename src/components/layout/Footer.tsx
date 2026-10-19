@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { MapPin, Phone, Clock, Star, MessageSquare } from "lucide-react";
+import { MapPin, Phone, Clock, Star, MessageSquare, Lock } from "lucide-react";
 
 export const Footer: React.FC = () => {
   const whatsappNumber = process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || "+916264673265";
@@ -85,6 +85,15 @@ export const Footer: React.FC = () => {
                   Join Family Points
                 </Link>
               </li>
+              <li className="pt-2">
+                <Link
+                  href="/owner/login"
+                  className="inline-flex items-center gap-1.5 rounded-lg bg-forest-900 border border-forest-800 px-3 py-1.5 text-[13px] font-semibold text-amber-300 hover:text-amber-200 hover:bg-forest-800 transition-colors"
+                >
+                  <Lock className="h-3.5 w-3.5 text-amber-400" />
+                  <span>Store Manager / Admin Portal</span>
+                </Link>
+              </li>
             </ul>
           </div>
 
@@ -137,9 +146,16 @@ export const Footer: React.FC = () => {
             <p>
               © {new Date().getFullYear()} Cotton Junction. Family clothing store. All rights reserved.
             </p>
-            <p className="text-[13px] text-linen-400">
-              Started Oct 2018 in Indore • Pure cotton and premium fabrics
-            </p>
+            <div className="flex flex-wrap items-center justify-center sm:justify-end gap-3 text-[13px] text-linen-400">
+              <span>Started Oct 2018 in Indore • Pure cotton and premium fabrics</span>
+              <span className="hidden sm:inline">•</span>
+              <Link
+                href="/owner/login"
+                className="text-amber-400 hover:text-amber-300 underline underline-offset-4 font-semibold transition-colors"
+              >
+                Store Admin Login (PIN: CJ2018)
+              </Link>
+            </div>
           </div>
         </div>
       </div>

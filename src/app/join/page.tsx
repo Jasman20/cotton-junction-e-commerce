@@ -126,7 +126,7 @@ export default function JoinPointsPage() {
                 </div>
 
                 <div className="rounded-2xl border border-linen-300 bg-white p-4 shadow-inner">
-                  <div className="relative aspect-square w-44 mx-auto bg-linen-100 rounded-xl overflow-hidden flex items-center justify-center p-2 border border-linen-300">
+                  <div className="relative w-44 h-44 mx-auto bg-linen-100 rounded-xl overflow-hidden flex items-center justify-center p-2 border border-linen-300">
                     {/* Visual QR representation */}
                     <div className="w-full h-full bg-white p-2 rounded-lg flex flex-col items-center justify-center border border-charcoal-200">
                       <QrCode className="h-32 w-32 text-forest-800" />

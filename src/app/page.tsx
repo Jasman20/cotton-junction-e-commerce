@@ -148,7 +148,10 @@ export default function HomePage() {
 
               {/* Hero Image (Right) */}
               <div className="lg:col-span-5">
-                <div className="relative aspect-4/3 sm:aspect-16/10 lg:aspect-4/5 w-full overflow-hidden rounded-3xl shadow-card border-2 border-white">
+                <div
+                  className="relative w-full overflow-hidden rounded-3xl shadow-card border-2 border-white min-h-[260px] sm:min-h-[380px]"
+                  style={{ aspectRatio: "4 / 3" }}
+                >
                   <Image
                     src="/stock/hero-family.jpg"
                     alt="Indian family wearing pure cotton clothing together"
@@ -195,7 +198,10 @@ export default function HomePage() {
             {/* Category: Men */}
             <Link href="/shop?category=Men" className="group">
               <Card variant="interactive" className="h-full flex flex-col">
-                <div className="relative aspect-3/4 w-full overflow-hidden bg-linen-200">
+                <div
+                  className="relative w-full overflow-hidden bg-linen-200 min-h-[200px] sm:min-h-[240px]"
+                  style={{ aspectRatio: "3 / 4" }}
+                >
                   <Image
                     src="/stock/cat-men.jpg"
                     alt="Men's pure cotton apparel"
@@ -222,7 +228,10 @@ export default function HomePage() {
             {/* Category: Women */}
             <Link href="/shop?category=Women" className="group">
               <Card variant="interactive" className="h-full flex flex-col">
-                <div className="relative aspect-3/4 w-full overflow-hidden bg-linen-200">
+                <div
+                  className="relative w-full overflow-hidden bg-linen-200 min-h-[200px] sm:min-h-[240px]"
+                  style={{ aspectRatio: "3 / 4" }}
+                >
                   <Image
                     src="/stock/cat-women.jpg"
                     alt="Women's pure cotton kurtis and sets"
@@ -249,7 +258,10 @@ export default function HomePage() {
             {/* Category: Kids */}
             <Link href="/shop?category=Kids" className="group">
               <Card variant="interactive" className="h-full flex flex-col">
-                <div className="relative aspect-3/4 w-full overflow-hidden bg-linen-200">
+                <div
+                  className="relative w-full overflow-hidden bg-linen-200 min-h-[200px] sm:min-h-[240px]"
+                  style={{ aspectRatio: "3 / 4" }}
+                >
                   <Image
                     src="/stock/cat-kids.jpg"
                     alt="Kids' pure cotton clothes"
@@ -326,7 +338,10 @@ export default function HomePage() {
               </div>
 
               <div className="lg:col-span-5">
-                <div className="relative aspect-16/9 w-full rounded-2xl overflow-hidden shadow-subtle border border-forest-700">
+                <div
+                  className="relative w-full rounded-2xl overflow-hidden shadow-subtle border border-forest-700 min-h-[200px] sm:min-h-[260px]"
+                  style={{ aspectRatio: "16 / 9" }}
+                >
                   <Image
                     src="/stock/cat-festive.jpg"
                     alt="Festive cotton apparel flatlay"
@@ -458,7 +473,10 @@ export default function HomePage() {
 
               {/* Fabric Detail / Pure Cotton Assurance */}
               <div className="lg:col-span-5">
-                <div className="relative aspect-4/3 w-full rounded-2xl overflow-hidden border border-linen-300 shadow-subtle">
+                <div
+                  className="relative w-full rounded-2xl overflow-hidden border border-linen-300 shadow-subtle min-h-[220px] sm:min-h-[280px]"
+                  style={{ aspectRatio: "4 / 3" }}
+                >
                   <Image
                     src="/stock/fabric-cotton.jpg"
                     alt="Pure cotton fabric texture"

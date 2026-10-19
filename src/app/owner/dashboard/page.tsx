@@ -178,7 +178,17 @@ export default function OwnerDashboardPage() {
             </div>
           </div>
 
-          <div className="flex items-center gap-3">
+          <div className="flex items-center gap-2 sm:gap-3">
+            <Link
+              href="/"
+              target="_blank"
+              className="flex h-10 items-center gap-1.5 rounded-lg border border-amber-400/40 bg-amber-400/10 px-3 text-[13px] font-semibold text-amber-300 hover:bg-amber-400/20 transition-colors"
+              title="Open storefront in new tab"
+            >
+              <ExternalLink className="h-4 w-4" />
+              <span className="hidden sm:inline">View Store</span>
+            </Link>
+
             <button
               onClick={fetchOrders}
               className="flex h-10 items-center gap-1.5 rounded-lg bg-forest-800 px-3 text-[13px] font-semibold text-linen-200 hover:bg-forest-700 transition-colors"

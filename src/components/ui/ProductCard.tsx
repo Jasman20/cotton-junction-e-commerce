@@ -23,7 +23,8 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product, onQuickAdd })
       {/* Product Image / Illustration Container */}
       <Link
         href={`/shop/${product.id}`}
-        className="relative block aspect-4/5 w-full overflow-hidden bg-linen-100"
+        className="relative block w-full overflow-hidden bg-linen-100 min-h-[220px] sm:min-h-[280px]"
+        style={{ aspectRatio: "4 / 5" }}
       >
         {!imageError && product.image && !product.image.includes("illustration") ? (
           <Image

@@ -8,6 +8,14 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      aspectRatio: {
+        "4/5": "4 / 5",
+        "3/4": "3 / 4",
+        "1/1": "1 / 1",
+        "16/9": "16 / 9",
+        "4/3": "4 / 3",
+        "16/10": "16 / 10",
+      },
       colors: {
         amber: {
           50: "#FFFDF5",

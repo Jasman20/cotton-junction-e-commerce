@@ -3,7 +3,7 @@
 import React, { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { Search, ShoppingBag, Globe, MapPin, Clock, X } from "lucide-react";
+import { Search, ShoppingBag, Globe, MapPin, Clock, X, Lock } from "lucide-react";
 import { useRouter } from "next/navigation";
 
 interface HeaderProps {
@@ -40,9 +40,19 @@ export const Header: React.FC<HeaderProps> = ({
               634, Sudama Nagar Main Rd, Usha Nagar, Indore
             </span>
           </div>
-          <div className="flex items-center gap-1.5 font-semibold text-amber-300 shrink-0">
-            <Clock className="h-4 w-4 shrink-0 text-amber-400" />
-            <span>Closes 11:30 pm</span>
+          <div className="flex items-center gap-3 font-semibold text-amber-300 shrink-0">
+            <div className="flex items-center gap-1.5">
+              <Clock className="h-4 w-4 shrink-0 text-amber-400" />
+              <span>Closes 11:30 pm</span>
+            </div>
+            <Link
+              href="/owner/login"
+              className="flex items-center gap-1 text-[12px] font-semibold text-white/90 hover:text-amber-300 bg-forest-900/80 hover:bg-forest-900 px-2.5 py-0.5 rounded-full border border-forest-700/60 transition-colors"
+              title="Store Owner & Admin Portal"
+            >
+              <Lock className="h-3 w-3 text-amber-400" />
+              <span>Admin</span>
+            </Link>
           </div>
         </div>
       </div>
@@ -139,6 +149,17 @@ export const Header: React.FC<HeaderProps> = ({
             <Globe className="h-4 w-4 text-forest-800" />
             <span>{currentLanguage === "en" ? "हिन्दी" : "EN"}</span>
           </button>
+
+          {/* Admin / Store Portal Button */}
+          <Link
+            href="/owner/login"
+            className="flex min-h-[44px] items-center gap-1.5 rounded-full border border-forest-800 bg-forest-50 px-3 py-1.5 text-[13px] font-bold text-forest-800 hover:bg-forest-100 hover:text-forest-900 transition-colors focus:outline-none focus:ring-2 focus:ring-forest-800 shadow-xs shrink-0"
+            title="Store Manager & Admin Login (PIN: CJ2018)"
+          >
+            <Lock className="h-3.5 w-3.5 text-forest-800" />
+            <span className="hidden sm:inline">Store Portal</span>
+            <span className="sm:hidden text-[12px]">Admin</span>
+          </Link>
 
           {/* Basket Trigger */}
           <Link
